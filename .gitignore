@@ -1,0 +1,6 @@
+*xcshareddata
+.DS_Store
+a.out
+*.o
+*.pbxproj
+*project.pbxproj

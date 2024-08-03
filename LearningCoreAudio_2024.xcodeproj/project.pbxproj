@@ -16,6 +16,7 @@
 		F0B860602C5E19040097FA84 /* LearningCoreAudio_2024Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0B8605F2C5E19040097FA84 /* LearningCoreAudio_2024Tests.swift */; };
 		F0B8606A2C5E19040097FA84 /* LearningCoreAudio_2024UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0B860692C5E19040097FA84 /* LearningCoreAudio_2024UITests.swift */; };
 		F0B8606C2C5E19040097FA84 /* LearningCoreAudio_2024UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0B8606B2C5E19040097FA84 /* LearningCoreAudio_2024UITestsLaunchTests.swift */; };
+		F0B860792C5E191B0097FA84 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F0B860782C5E191B0097FA84 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F0B860652C5E19040097FA84 /* LearningCoreAudio_2024UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningCoreAudio_2024UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0B860692C5E19040097FA84 /* LearningCoreAudio_2024UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningCoreAudio_2024UITests.swift; sourceTree = "<group>"; };
 		F0B8606B2C5E19040097FA84 /* LearningCoreAudio_2024UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningCoreAudio_2024UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F0B860782C5E191B0097FA84 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F0B860562C5E19040097FA84 /* LearningCoreAudio_2024.entitlements */,
 				F0B860532C5E19040097FA84 /* LearningCoreAudio_2024.xcdatamodeld */,
 				F0B8604E2C5E19030097FA84 /* Preview Content */,
+				F0B860782C5E191B0097FA84 /* README.md */,
 			);
 			path = LearningCoreAudio_2024;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0B860792C5E191B0097FA84 /* README.md in Resources */,
 				F0B860502C5E19030097FA84 /* Preview Assets.xcassets in Resources */,
 				F0B8604D2C5E19030097FA84 /* Assets.xcassets in Resources */,
 			);
